@@ -12,7 +12,7 @@ id:
 # Optional parameters.
 scanners:
   - sast
-  - dast
+#  - dast
   - secret
   - sca   
   
