@@ -20,10 +20,10 @@ languages:
  - python
  - javascript
      
-dast:
-  url: http://6d0ee9af-4a63-46d3-ac8d-95342069156f.eastus.azurecontainer.io/login.php
-  fortipentest_scanner: true #true|false
-  full_scan: true #true|false
+#dast:
+  #url: http://6d0ee9af-4a63-46d3-ac8d-95342069156f.eastus.azurecontainer.io/login.php
+  #fortipentest_scanner: true #true|false
+  #full_scan: true #true|false
      
 resource:
   serial_scan: false #true|false
