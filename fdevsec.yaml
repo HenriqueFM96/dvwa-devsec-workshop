@@ -4,7 +4,7 @@ version: v1
 #   org: 788704fe-9ca6-4c0f-a392-4eba472d694c 
 #   app: 39762676-cb18-4d54-9f59-a0549104b9a4
  
-# APP ID
+# APP ID goes here
 id:
   app: 03b3e31c-a95c-41b4-a3cb-6e1f282b69fe
   org: 8b81785d-cb2c-4306-9d51-3b38bbeecf2b
