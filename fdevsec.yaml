@@ -6,8 +6,8 @@ version: v1
  
 # APP ID
 id:
-  app: 270fd249-9354-49cb-a7be-c27addbefef3
-  org: 4a994333-ec6e-4337-9555-f35def74f373
+  app: 03b3e31c-a95c-41b4-a3cb-6e1f282b69fe
+  org: 8b81785d-cb2c-4306-9d51-3b38bbeecf2b
 
 # Optional parameters.
 scanners:
