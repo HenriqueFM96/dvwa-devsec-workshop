@@ -9,7 +9,6 @@ id:
   app: 270fd249-9354-49cb-a7be-c27addbefef3
   org: 4a994333-ec6e-4337-9555-f35def74f373
 
-
 # Optional parameters.
 scanners:
   - sast
